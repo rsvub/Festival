@@ -1,9 +1,8 @@
 package festak;
 
 /*
- * File name: Client.java
- * Date:      2006/11/27 21:07
- * Author:    Jan Faigl
+ * 
+ * Author:    @Student
  */
 
 import java.io.InputStream;
